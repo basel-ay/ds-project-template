@@ -1,5 +1,3 @@
-# ds-project-template
-
 ## Overview
 
 This assessment is designed to get hands-on experience with the DS project workflow (missing values, outlier handling, standardization, visualization, APIs, etc..). It comprises two main components:
