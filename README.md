@@ -82,8 +82,6 @@ The data visualization scripts are included in `data_visualization.py`.
 
 ## How to Use
 
-1. **Setup:**
-
 ### Prerequisites
   - Python 3.7+
   - Git
